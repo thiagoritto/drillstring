@@ -1,4 +1,4 @@
-# Read Me
+# README
 
 In this repository you will find data from a test rig experiment performed at the Laboratory of Acoustic and Vibration of the Federal University of Rio de Janeiro.
 
