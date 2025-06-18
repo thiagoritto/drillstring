@@ -6,7 +6,7 @@ clc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%% EXPERIMENTAL DATA %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Load experimental data
-load 175_completo_1
+load 175_completo
 
 % Time window used in calibration
 t_min   = 37;
